@@ -1,7 +1,7 @@
 import { Outlet, Link } from "react-router-dom";
 import { BiSolidHome } from "react-icons/bi";
 
-// Render Section UI
+// Render UI Section
 function Pokedex() {
 	return (
 		<>

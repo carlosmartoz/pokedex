@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-// Custom hook for fetching Pokemon data by ID
+// Custom hook
 const useFetchPokemon = (id) => {
 	// State to store the fetched Pokemon data
 	const [pokemonData, setPokemonData] = useState({});

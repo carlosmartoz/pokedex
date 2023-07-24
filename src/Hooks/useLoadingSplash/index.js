@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-// Custom hook for displaying a loading splash screen
+// Custom hook
 const useLoadingSplash = () => {
 	// State to track the loading status
 	const [isLoading, setIsLoading] = useState(true);

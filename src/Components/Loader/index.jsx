@@ -1,4 +1,4 @@
-// Render Component UI
+// Render UI Component
 function Loader() {
 	return (
 		<>

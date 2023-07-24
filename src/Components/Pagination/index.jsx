@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { BiChevronLeft, BiChevronRight, BiChevronsLeft, BiChevronsRight } from "react-icons/bi";
 import PropTypes from "prop-types";
 
-// Define the Pagination component.
+// Render UI Component
 function Pagination({ pages, maxPages }) {
 	return (
 		<>

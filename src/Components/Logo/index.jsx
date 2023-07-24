@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 
-// Render Component UI
+// Render UI Component
 function Logo({ width, height, className }) {
 	return (
 		<>

@@ -2,6 +2,7 @@ import axios from "axios";
 import { useState, useEffect } from "react";
 import { POKEMON_PER_PAGE } from "../../Utils/Constants";
 
+// Custom hook
 const usePokemonList = ({ pages }) => {
 	// Custom hook to fetch a list of Pokémon based on the provided 'pages' parameter
 

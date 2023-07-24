@@ -4,7 +4,7 @@ import { Logo } from "../../Components";
 import { calculatePageForPokemon, formatNumber } from "../../Utils/Constants";
 import { BiArrowBack, BiChevronLeft, BiChevronRight } from "react-icons/bi";
 
-// Render Section UI
+// Render UI Section
 const Pokemon = () => {
 	// Get the 'id' parameter from the URL using 'useParams' hook
 	const { id } = useParams();

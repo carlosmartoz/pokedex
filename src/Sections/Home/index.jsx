@@ -1,7 +1,7 @@
 import { Logo } from "../../Components";
 import { Link } from "react-router-dom";
 
-// Render Section UI
+// Render UI Section
 function Home() {
 	return (
 		<>

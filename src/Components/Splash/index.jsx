@@ -1,6 +1,6 @@
 import { Logo } from "../index.js";
 
-// Render Component UI
+// Render UI Component
 function Splash() {
 	return (
 		<>

@@ -1,7 +1,7 @@
 import { Logo } from "../index.js";
 import PropTypes from "prop-types";
 
-// Render Component UI
+// Render UI Component
 function Item({ name, number, type }) {
 	return (
 		<>

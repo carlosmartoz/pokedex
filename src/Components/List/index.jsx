@@ -3,7 +3,7 @@ import { usePokemonList } from "../../Hooks";
 import { POKEMON_PER_PAGE } from "../../Utils/Constants";
 import { Loader, Item, Pagination } from "../index.js";
 
-// Render Component UI
+// Render UI Component
 function List() {
 	// Get the 'pages' parameter from the URL using the useParams hook.
 	const { pages } = useParams();
