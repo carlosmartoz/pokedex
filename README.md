@@ -3,7 +3,7 @@
 <div align="center">
    <h3 align="center">Pokédex</h3>
 
-   <p align="center">Pokédex in React, TailwindCSS working with the consumption of an API with Axios.</p>
+   <p align="center">A web application to create a Pokédex where an API is consumed, allowing you to see the information of each Pokémon.</p>
 </div>
 
 ## 💼 Skills
@@ -13,10 +13,6 @@
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
 ![](https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwind-css&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
-
-## 🚨 Fork
-
-You are free to fork this repository, either to see the code or use the portfolio, always giving the respective credits. 💪🏻
 
 ## 🛠 Installation
 
