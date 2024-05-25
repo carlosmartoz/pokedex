@@ -8,11 +8,11 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=react&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
-![](https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwind-css&logoColor=edf2f4&color=2b2d42&labelColor=ef233c)
+![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
+![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
+![](https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=react&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
+![](https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwind-css&logoColor=EDF2F4&color=0B1622&labelColor=FF0000)
 
 ## 🛠 Installation
 
